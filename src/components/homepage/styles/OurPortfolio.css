@@ -1,0 +1,7 @@
+.image-container{
+    background-image: url("/slider-images/slider-image3.jpeg");
+}
+
+.sub-div:hover .image-container{
+    background-image: url("/slider-images/slider-image4.jpeg");
+}

@@ -1,0 +1,41 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": false,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve", // Set to "react" for React JSX
+    "jsxFactory": "React.createElement", // Optional, specifies the factory function for JSX
+    "jsxFragmentFactory": "React.Fragment", // Optional, specifies the factory function for fragments
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts"
+, "src/app/career/layout.js", "src/app/api/it/payment/initiatePayment/[id]/route.js", "src/app/success/page.jsx", "src/components/about/TeamMember.jsx"  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

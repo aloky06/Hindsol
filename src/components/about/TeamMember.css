@@ -1,0 +1,4 @@
+.slick-slide > div .first{
+    margin: 0 10px;
+    filter: blur(0px);
+}

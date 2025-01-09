@@ -1,0 +1,29 @@
+/* Add this to your global styles or within the component style tag */
+@keyframes waving {
+    0%, 100% {
+      transform: translateX(0);
+    }
+    50% {
+      transform: translateX(10px); /* Adjust the distance as needed */
+    }
+  }
+  
+  @keyframes shadowWave {
+    0%,
+    100% {
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Adjust the shadow as needed */
+    }
+    50% {
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.4); /* Adjust the shadow as needed */
+    }
+  }
+  
+  /* Apply the animation to the CountdownTimer component */
+  .waving-animation {
+    animation: waving 2s infinite; /* Adjust the duration as needed */
+  }
+  
+  .shadow-wave-animation {
+    animation: shadowWave 2s infinite; /* Adjust the duration as needed */
+  }
+  

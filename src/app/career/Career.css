@@ -1,0 +1,31 @@
+.imageContainer {
+  background-image: url('https://images.unsplash.com/photo-1682685797507-d44d838b0ac7?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-size: cover;
+  height: 500px;
+  width: 60%; /* Initial width */
+  transition: width 0.5s ease-in-out, top 0.5s ease-in-out; /* Transition for width and top */
+  position: relative; /* Needed for absolute positioning of child */
+  border-radius: 15px;
+  overflow: hidden; /* Ensure the background image is clipped properly */
+}
+
+.contentContainer {
+  height: 400px;
+  width: 80%; /* Initial width */
+  top: 350px; /* Initial position */
+  transition: width 0.5s ease-in-out, top 0.5s ease-in-out; /* Transition for width and top */
+  position: absolute; /* Needed for absolute positioning */
+  background-color: white;
+  border-radius: 15px;
+  overflow: hidden; /* Ensure content doesn't overflow */
+}
+
+.container {
+  position: relative;
+}
+
+/* Animation class to increase size and move upward */
+.animate {
+  width: 90%; /* Final width */
+  top: 200px; /* Move upward */
+}

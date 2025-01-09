@@ -1,0 +1,32 @@
+.slick-slide > div .second{
+    margin: 0 10px;
+    filter: blur(2px);    
+}
+.slick-slide{
+    padding-inline: 16px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    
+    
+    transition: padding-inline 0.5 ease,padding-top 0.5s ease,padding-bottom 0.5s ease;
+}
+
+.slick-center > div .second{
+    height: 525px !important;
+    filter: blur(0px);
+}
+.slick-center{
+    padding-inline: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    transition: padding-inline 0.5s ease,padding-top 0.5s ease,padding-bottom 0.5s ease;
+}
+
+@media(max-width:480px){
+    
+.slick-center > div .second{
+    height: 500px !important;
+    filter: blur(0px);
+}
+
+}
