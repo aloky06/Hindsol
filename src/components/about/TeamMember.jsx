@@ -39,7 +39,7 @@ const teamMember = [
   // },
 
   {
-    image: "/team/front1.png",
+    image: "/team/Ankur.jpg",
     name: "Ankur Kumar",
     Designation: "Operation Executive",
     description: "https://www.linkedin.com/in//",
