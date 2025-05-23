@@ -30,19 +30,19 @@ const teamMember = [
   //   Designation: "Full-Stack Developer",
   //   description: "https://www.linkedin.com/in/anshuman-mishra-996195146/",
   // },
-  {
-    image: "/team/cfo.jpeg",
-    name: "Saiprasad kv",
-    Designation: " CFO",
-    description: "https://www.linkedin.com/in/hindsolanjupatel",
+  // {
+  //   image: "/team/cfo.jpeg",
+  //   name: "Saiprasad kv",
+  //   Designation: " CFO",
+  //   description: "https://www.linkedin.com/in/hindsolanjupatel",
 
-  },
+  // },
 
   {
-    image: "/team/front.png",
-    name: "Dabblu ali",
-    Designation: "Full-Stack Developer",
-    description: "https://www.linkedin.com/in/akash-maurya-39a4b023a/",
+    image: "/team/front1.png",
+    name: "Ankur Kumar",
+    Designation: "Operation Executive",
+    description: "https://www.linkedin.com/in//",
   },
 ];
 
