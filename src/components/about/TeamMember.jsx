@@ -25,7 +25,7 @@ const teamMember = [
     description: "https://www.linkedin.com/in/hrheadarchana/",
   },
   {
-    image: "/team/Tushar.jpeg",
+    image: "/team/Tushar.jpg",
     name: "Tushar Baranwal",
     Designation: "COO",
     description: "https://www.linkedin.com/in//",
