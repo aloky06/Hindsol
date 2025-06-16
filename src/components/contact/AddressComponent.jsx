@@ -17,7 +17,7 @@ function AddressComponent() {
           <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
            
            <strong>E-mail: </strong>info@hindsol.com<br/>
-           <strong>Contact No: </strong>6363777534, 0542-2971879
+           <strong>Contact No: </strong>6363777534, 9044622272
 
            
           
