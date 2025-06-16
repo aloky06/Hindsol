@@ -24,12 +24,12 @@ const teamMember = [
     Designation: "HR",
     description: "https://www.linkedin.com/in/hrheadarchana/",
   },
-  // {
-  //   image: "/team/full-stack.jpeg",
-  //   name: "Anshuman Mishra",
-  //   Designation: "Full-Stack Developer",
-  //   description: "https://www.linkedin.com/in/anshuman-mishra-996195146/",
-  // },
+  {
+    image: "/team/Tushar.jpeg",
+    name: "Tushar Baranwal",
+    Designation: "COO",
+    description: "https://www.linkedin.com/in//",
+  },
   // {
   //   image: "/team/cfo.jpeg",
   //   name: "Saiprasad kv",
