@@ -139,7 +139,7 @@ function Footer() {
               <h2>All Rights Reserved.</h2>
               </div>
               <div>
-                <h2>Copyright @2024</h2>
+                <h2>Copyright @ 2020-2025</h2>
               </div>
                 
 

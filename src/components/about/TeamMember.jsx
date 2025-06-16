@@ -28,7 +28,7 @@ const teamMember = [
     image: "/team/Tushar.jpg",
     name: "Tushar Baranwal",
     Designation: "COO",
-    description: "https://www.linkedin.com/in//",
+    description: "https://www.linkedin.com/in/tushar-baranwal-699258304/",
   },
   // {
   //   image: "/team/cfo.jpeg",
