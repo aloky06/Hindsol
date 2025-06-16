@@ -53,11 +53,11 @@ const [isSubCategoryClicked,setIsSubcategoryClicked]=useState(false);
     console.log("calculate price called");
     if (isDesktop) {
       if (refinedApp) {
-        totalPrice += 63000; // Adjust prices as needed
+        totalPrice += 24999; // Adjust prices as needed
       } else if (basicApp) {
-        totalPrice += 39000;
+        totalPrice += 14999;
       } else if (mvpApp) {
-        totalPrice += 28000;
+        totalPrice += 7999;
       }
       setWebPrice(totalPrice);
     } else {
