@@ -338,7 +338,7 @@ const [isSubCategoryClicked,setIsSubcategoryClicked]=useState(false);
 
                     <h3 className="m-2 text-[18px]">NOTHING TO CALCULATE</h3>
                   </div>
-                  <h3 className="text-[28px] ml-4">${webPrice}</h3>
+                  <h3 className="text-[28px] ml-4">₹.{webPrice}</h3>
                 </div>
 
                 {/* second div */}
@@ -351,7 +351,7 @@ const [isSubCategoryClicked,setIsSubcategoryClicked]=useState(false);
 
                     <h3 className="m-2 text-[18px]">NOTHING TO CALCULATE</h3>
                   </div>
-                  <h3 className="text-[28px] ml-4">${mobilePrice}</h3>
+                  <h3 className="text-[28px] ml-4">₹.{mobilePrice}</h3>
                 </div>
 
                 {/* third div */}
@@ -367,7 +367,7 @@ const [isSubCategoryClicked,setIsSubcategoryClicked]=useState(false);
                     <BiArrowToTop className="text-black text-[35px]" />
                     </div>
                   </div>
-                  <h3 className="text-[35px] font-semibold ml-2">${totalPrice}</h3>
+                  <h3 className="text-[35px] font-semibold ml-2">₹.{totalPrice}</h3>
                 </div>
 
                 <hr className="mx-4 mt-6" />
