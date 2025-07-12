@@ -99,7 +99,7 @@ const Navbar = () => {
                   </li>
                   <li>
                     <Link
-                      href="https://drive.google.com/drive/folders/1aPyFG8_GkeSwSsaMm2-cEymdeYylH3Pp?usp=sharing"
+                      href="https://drive.google.com/file/d/1f9EFIgJ4kP9-oKwui_SbSbWxzQWQSDtt/view"
                       className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                     >
                       Business ERP_Setup
@@ -107,7 +107,7 @@ const Navbar = () => {
                   </li>
                   <li>
                     <Link
-                      href="https://drive.google.com/drive/folders/15A_wW87apwyNqm6ECR5Mfwhk75iOsDLL?usp=sharing"
+                      href="https://drive.google.com/file/d/1f9EFIgJ4kP9-oKwui_SbSbWxzQWQSDtt/view"
                       className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                     >
                       School ERP_Setup
