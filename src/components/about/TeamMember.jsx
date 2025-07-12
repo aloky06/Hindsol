@@ -34,7 +34,7 @@ const teamMember = [
   //   image: "/team/cfo.jpeg",
   //   name: "Saiprasad kv",
   //   Designation: " CFO",
-  //   description: "https://www.linkedin.com/in/hindsolanjupatel",
+  //   description: "https://www.linkedin.com/in/",
 
   // },
 
