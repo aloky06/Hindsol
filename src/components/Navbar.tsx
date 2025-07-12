@@ -99,18 +99,18 @@ const Navbar = () => {
                   </li>
                   <li>
                     <Link
-                      href="/services"
+                      href="https://drive.google.com/drive/folders/1aPyFG8_GkeSwSsaMm2-cEymdeYylH3Pp?usp=sharing"
                       className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                     >
-                      Mobile App Development
+                      Business ERP_Setup
                     </Link>
                   </li>
                   <li>
                     <Link
-                      href="/services"
+                      href="https://drive.google.com/drive/folders/15A_wW87apwyNqm6ECR5Mfwhk75iOsDLL?usp=sharing"
                       className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                     >
-                      Desktop Application Development
+                      School ERP_Setup
                     </Link>
                   </li>
                 </ul>

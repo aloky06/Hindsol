@@ -38,12 +38,12 @@ const teamMember = [
 
   // },
 
-  {
-    image: "/team/Ankur.jpg",
-    name: "Ankur Kumar",
-    Designation: "Operation Executive",
-    description: "https://www.linkedin.com/in//",
-  },
+  // {
+  //   image: "/team/Ankur.jpg",
+  //   name: "Ankur Kumar",
+  //   Designation: "Operation Executive",
+  //   description: "https://www.linkedin.com/in//",
+  // },
 ];
 
 const TeamMember = () => {
