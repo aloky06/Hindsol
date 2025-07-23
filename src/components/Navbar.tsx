@@ -99,6 +99,14 @@ const Navbar = () => {
                   </li>
                   <li>
                     <Link
+                      href="https://drive.usercontent.google.com/download?id=1DQmEkL4vhLZHz66QezORYHnuWCT_9Wnn&export=download&authuser=0w" 
+                      className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
+                    >
+                      Provider Software
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
                       href="https://drive.google.com/file/d/1f9EFIgJ4kP9-oKwui_SbSbWxzQWQSDtt/view" 
                       className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                     >
