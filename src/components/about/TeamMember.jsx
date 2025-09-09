@@ -30,13 +30,13 @@ const teamMember = [
     Designation: "COO",
     description: "https://www.linkedin.com/in/tushar-baranwal-699258304/",
   },
-  // {
-  //   image: "/team/cfo.jpeg",
-  //   name: "Saiprasad kv",
-  //   Designation: " CFO",
-  //   description: "https://www.linkedin.com/in/",
+     {
+      image: "/team/cfo.jpeg",
+      name: "Saiprasad kv",
+      Designation: " CFO",
+      description: "https://www.linkedin.com/in/",
 
-  // },
+     },
 
   // {
   //   image: "/team/Ankur.jpg",

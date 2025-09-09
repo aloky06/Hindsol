@@ -34,6 +34,7 @@ function DiscussProject() {
           <Typewriter
             options={{
               strings:courses,
+              
               autoStart: true,
               loop: true,
             }}
