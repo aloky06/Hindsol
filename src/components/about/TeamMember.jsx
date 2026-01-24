@@ -13,6 +13,18 @@ const teamMember = [
     description: "https://www.linkedin.com/in/ceoalokkumaryadav",
   },
   {
+    image: "/team/kaal_bhairav_kashi2.png",
+    name: "Shree Kaal Bhairav",
+    Designation: "Director",
+    description: "https://www.linkedin.com/in/",
+  },
+  {
+    image: "/team/kaal_bhairav_kashi2.png",
+    name: "Shree Kaal Bhairav",
+    Designation: "Director",
+    description: "https://www.linkedin.com/in/",
+  },
+  {
     image: "/team/director.jpg",
     name: "Ajay Patel",
     Designation: "Director",
