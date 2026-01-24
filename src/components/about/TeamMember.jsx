@@ -15,13 +15,13 @@ const teamMember = [
   {
     image: "/team/kaal_bhairav_kashi2.png",
     name: "Shree Kaal Bhairav",
-    Designation: "Director",
+    Designation: "Partner",
     description: "https://www.linkedin.com/in/",
   },
   {
-    image: "/team/kaal_bhairav_kashi2.png",
-    name: "Shree Kaal Bhairav",
-    Designation: "Director",
+    image: "/team/khatu Shyam.jpg",
+    name: "Shree Khatu Shyam ji",
+    Designation: "Partner",
     description: "https://www.linkedin.com/in/",
   },
   {
